@@ -15,7 +15,6 @@
 <code>
   <img title="Visual Studio Code" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"/>
   <img title="Remix Ethereum IDE" width="32" src="https://repository-images.githubusercontent.com/59065830/b62be480-45d2-11ea-9989-803db0f9c44d"/>
-  <img title="macOS" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png"/>
 </code>
 
 #### Languages
@@ -29,7 +28,7 @@
 #### Technologies
 <code>
   <img title="Truffle" width="32" src="https://cdn-images-1.medium.com/max/1200/1*t422eA3rfv5sdaK1i1l80w.png"/>
-  <img title="Hyperledger Fabric" width="32" src="https://www.ibm.com/blogs/research/wp-content/uploads/2018/02/hyperledger_logo_new-e1517489779625.png"/>
+  <img title="Hyperledger Fabric" width="32" src="http://www.bankingtech.com/files/2017/03/Hyperledger-Fabric.png"/>
   <img title="React" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
   <img title="AWS" width="32" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"/>
   <img title="Docker" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/>
