@@ -4,15 +4,10 @@
 - 🌱 I’m studying at the Stockholm University - Computer and Systems Sciences 
 - 🌱 I’m currently learning everything 🤣
 - 📫 How to reach me: michalmironczuk1@gmail.com
-- ⚡ Fun fact: I love swimming 🏊‍♀️
+- ⚡ Fun fact: I love swimming 🏊‍♀️ My blog: https://www.blocksism.com/
 - 💻 Customized DELL Inspiron 7590 (Windows + WSL2)
 - 🇵🇱 proficient
 - 🇬🇧 advanced
-
-### Connect with me:
-[<img align="left" alt="michalmironczuk1@gmail.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/inbox.svg" />][email]
-[<img align="left" alt="blocksism.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="miroon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
