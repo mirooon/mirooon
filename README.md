@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on Hyperledger Fabric (Amazon Managed Blockchain), Ethereum ecosystem.
 - 👨‍🎓 Master of Science - Stockholm University - Computer and Systems Sciences
+- 📜 Certified Hyperledger Fabric Developer
 - 🌱 I’m currently learning everything 🤣
 - 📫 How to reach me: michalmironczuk1@gmail.com
 - ⚡ Fun fact: I love swimming 🏊‍♀️ My blog: https://www.blocksism.com/
