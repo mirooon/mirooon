@@ -1,7 +1,7 @@
 ## I'm a Fullstack Blockchain Developer
 
 - 🔭 I’m currently working on Hyperledger Fabric (Amazon Managed Blockchain), Ethereum ecosystem.
-- 🌱 I’m studying at the Stockholm University - Computer and Systems Sciences 
+- 👨‍🎓 Master of Science - Stockholm University - Computer and Systems Sciences
 - 🌱 I’m currently learning everything 🤣
 - 📫 How to reach me: michalmironczuk1@gmail.com
 - ⚡ Fun fact: I love swimming 🏊‍♀️ My blog: https://www.blocksism.com/
