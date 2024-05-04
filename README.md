@@ -1,11 +1,11 @@
-## I'm a Fullstack Blockchain Developer
+## I'm a Smart Contract Engineer
 
-- 🔭 I’m currently working on Hyperledger Fabric (Amazon Managed Blockchain), Ethereum ecosystem.
 - 👨‍🎓 Master of Science - Stockholm University - Computer and Systems Sciences
+- 🔥 SOLIDITY
 - 📜 Certified Hyperledger Fabric Developer
-- 🌱 I’m currently learning everything 🤣
+- 🌱 No time. Love to learn about everything 🤣
 - 📫 How to reach me: michalmironczuk1@gmail.com
-- ⚡ Fun fact: I love swimming 🏊‍♀️ My blog: https://www.blocksism.com/
+- ⚡ Fun fact: I love swimming 🏊‍♀️ 
 - 💻 Customized DELL Inspiron 7590 (Windows + WSL2)
 - 🇵🇱 proficient
 - 🇬🇧 advanced
